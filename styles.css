@@ -1,0 +1,51 @@
+/* add your CSS here */
+html{
+  font-family: helvetica, arial, sans-serif;
+}
+
+.container{
+  background-color: grey;
+  height: 800px;
+  width: 600px;
+  margin: auto;
+  padding: 1px 0 1px 0;
+}
+
+.card{
+  background-color: blue;
+  height: 720px;
+  width: 350px;
+  margin: 10px auto;
+  padding: 0 20px;
+  border: 1px solid navy;
+  border-radius: 1px;
+  box-shadow: 9px 9px 9px navy;
+  }
+
+  .headerThree{
+    text-align: center;
+    text-shadow: 3px 3px 3px navy;
+  }
+
+  .fact{
+  font-style: italic;
+  text-align: center;
+  }
+
+  .image{
+    padding-left: 25px;
+    width: 300px;
+    border: 2px navy;
+  }
+
+  .listItem{
+    list-style-type: none;
+  }
+
+  .spanClass{
+    font-weight: bold;
+  }
+
+  .paragraph{
+    text-align: justify;
+  }
